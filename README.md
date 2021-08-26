@@ -6,7 +6,9 @@ This game is also adatpted from [Unity Tutorial](https://learn.unity.com/project
 ## Description
 
 This is uploaded with Unity.gitignore.
+
 Bulided File contains an already built Windows version of this game.
+
 Reflection.pdf is the required reflection of this assignment.
 
 Hope you can enjoy it!
