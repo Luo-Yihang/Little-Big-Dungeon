@@ -1,6 +1,6 @@
 # Little-Big-Rougeon
 
-This is a 2D Rouguelike game made by Unity 2D, and this is for [Classfront](https://classfront.co/) take home assignment.
+This is a 2D Rouguelike game made by Unity 2D.
 This game is also adatpted from [Unity Tutorial](https://learn.unity.com/project/2d-roguelike-tutorial?uv=5.x).
 
 ## Description
